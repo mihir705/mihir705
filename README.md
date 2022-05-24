@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mihir Popat
 - 👀 I’m interested in Full Stack Web Development.
 - 🌱 I’m currently learning React and MongoDB.
-- 💞️ I’m looking to collaborate on Web development Projects Related to E-Learning.
+- 💞️ I’m looking to collaborate on Web development Projects Related to Ed-Tech.
 - 📫 My LinkedIn Id :-@mihirpopat
 
 <!---
